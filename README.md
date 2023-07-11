@@ -1,4 +1,4 @@
-# Bachelor's Degree Thesis
+# Bachelor's Degree in Programming Thesis
 
 # Participants
 Benjamin Loxley Wood
