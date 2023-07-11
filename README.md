@@ -1,18 +1,18 @@
 # Bachelor's Degree in Programming Thesis
 
-# Participants
+## Participants
 Benjamin Loxley Wood
 Martin Rui Andorsen
 Sander Thorsen
 Stian Tusvik
 
-# Title 
+## Title 
 **Empowering Data Analytics** - A Data Documentation Tool for Optimizing Data Driven Decisions
 
-# Employer 
+## Employer 
 **Intility AS**
 
-# Abstract
+## Abstract
 Intility is a leading provider of IT operations services in Norway and would like to gain a
 competitive advantage by making more data-driven decisions. In their quest to use data more
 actively, they requested a tool which provides easy insight into their data pipelines, ultimately
